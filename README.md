@@ -7,4 +7,4 @@ Denna SQL databasen är för en liten bokhandel, den består av:
 - Beställningar
 - Orderrader
 
-[ER Diagram](images/er-diagram.png)
+![ER Diagram](images/er-diagram.png)
